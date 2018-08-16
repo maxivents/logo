@@ -1,0 +1,46 @@
+<?xml version='1.0'?>
+<svg xmlns='http://www.w3.org/2000/svg' width='1000' height='1000'>
+	<circle cx='500' cy='500' r='500' fill='#111111'/><!--background-->
+
+	<circle cx='500' cy='125' r='25' fill='#ffffff' transform='rotate(0 500 500)'/>
+	<circle cx='500' cy='125' r='25' fill='#ffffff' transform='rotate(15 500 500)'/>
+	<circle cx='500' cy='125' r='25' fill='#ffffff' transform='rotate(30 500 500)'/>
+	<circle cx='500' cy='125' r='25' fill='#ffffff' transform='rotate(60 500 500)'/>
+	<circle cx='500' cy='125' r='25' fill='#ffffff' transform='rotate(75 500 500)'/>
+	<circle cx='500' cy='125' r='25' fill='#ffffff' transform='rotate(90 500 500)'/>
+	<circle cx='500' cy='125' r='25' fill='#ffffff' transform='rotate(105 500 500)'/>
+	<circle cx='500' cy='125' r='25' fill='#ffffff' transform='rotate(120 500 500)'/>
+	<circle cx='500' cy='125' r='25' fill='#ffffff' transform='rotate(150 500 500)'/>
+	<circle cx='500' cy='125' r='25' fill='#ffffff' transform='rotate(165 500 500)'/>
+	<circle cx='500' cy='125' r='25' fill='#ffffff' transform='rotate(180 500 500)'/>
+	<circle cx='500' cy='125' r='25' fill='#ffffff' transform='rotate(195 500 500)'/>
+	<circle cx='500' cy='125' r='25' fill='#ffffff' transform='rotate(210 500 500)'/>
+	<circle cx='500' cy='125' r='25' fill='#ffffff' transform='rotate(240 500 500)'/>
+	<circle cx='500' cy='125' r='25' fill='#ffffff' transform='rotate(255 500 500)'/>
+	<circle cx='500' cy='125' r='25' fill='#ffffff' transform='rotate(270 500 500)'/>
+	<circle cx='500' cy='125' r='25' fill='#ffffff' transform='rotate(285 500 500)'/>
+	<circle cx='500' cy='125' r='25' fill='#ffffff' transform='rotate(300 500 500)'/>
+	<circle cx='500' cy='125' r='25' fill='#ffffff' transform='rotate(330 500 500)'/>
+	<circle cx='500' cy='125' r='25' fill='#ffffff' transform='rotate(345 500 500)'/>
+	
+	<circle cx='500' cy='250' r='25' fill='#ffffff' transform='rotate(0 500 500)'/>
+	<circle cx='500' cy='250' r='25' fill='#ffffff' transform='rotate(22.5 500 500)'/>
+	<circle cx='500' cy='250' r='25' fill='#ffffff' transform='rotate(67.5 500 500)'/>
+	<circle cx='500' cy='250' r='25' fill='#ffffff' transform='rotate(90 500 500)'/>
+	<circle cx='500' cy='250' r='25' fill='#ffffff' transform='rotate(112.5 500 500)'/>
+	<circle cx='500' cy='250' r='25' fill='#ffffff' transform='rotate(157.5 500 500)'/>
+	<circle cx='500' cy='250' r='25' fill='#ffffff' transform='rotate(180 500 500)'/>
+	<circle cx='500' cy='250' r='25' fill='#ffffff' transform='rotate(202.5 500 500)'/>
+	<circle cx='500' cy='250' r='25' fill='#ffffff' transform='rotate(247.5 500 500)'/>
+	<circle cx='500' cy='250' r='25' fill='#ffffff' transform='rotate(270 500 500)'/>
+	<circle cx='500' cy='250' r='25' fill='#ffffff' transform='rotate(292.5 500 500)'/>
+	<circle cx='500' cy='250' r='25' fill='#ffffff' transform='rotate(337.5 500 500)'/>
+
+	<circle cx='500' cy='375' r='25' fill='#ffffff' transform='rotate(0 500 500)'/>
+	<circle cx='500' cy='375' r='25' fill='#ffffff' transform='rotate(90 500 500)'/>
+	<circle cx='500' cy='375' r='25' fill='#ffffff' transform='rotate(180 500 500)'/>
+	<circle cx='500' cy='375' r='25' fill='#ffffff' transform='rotate(270 500 500)'/>
+
+	<line x1='500' y1='100' x2='500' y2='900' stroke='#9b1d20' stroke-width='25' stroke-linecap='round' transform='rotate(45 500 500)'/>
+	<line x1='500' y1='100' x2='500' y2='900' stroke='#9b1d20' stroke-width='25' stroke-linecap='round' transform='rotate(315 500 500)'/>
+</svg>
